@@ -5,8 +5,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className={styles.page}>
-      <section id="content" className="s-content">
+    <section id="content" className="s-content">
 
 
         <section id="intro" className="s-intro">
@@ -225,6 +224,5 @@ export default function Home() {
         </section>
 
       </section>
-    </div>
   );
 }

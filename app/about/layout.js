@@ -6,9 +6,9 @@ export const metadata = {
 
 function AboutLayout({ children }) {
   return (
-    <div>
-      {children}
-    </div>
+    <>
+    {children}
+    </>
   )
 }
 
