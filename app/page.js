@@ -59,7 +59,7 @@ export default function Home() {
               <div className="section-header grid-section-split__header">
                 <div className="text-pretitle">About</div>
                 <h2 className="text-display-title">
-                  An inspiring headline about yourself.
+                  An inspiring headline about myself.
                 </h2>
               </div>
 
