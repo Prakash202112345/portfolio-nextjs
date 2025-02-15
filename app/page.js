@@ -1,6 +1,7 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 import SocialLinks from "./component/SocialLinks";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -78,7 +79,7 @@ export default function Home() {
               </div>
 
               <div className="s-about__content-btn grid-section-split__bottom">
-                <a href="about.html" className="btn btn--stroke u-fullwidth">More About Me</a>
+                <Link href="about" className="btn btn--stroke u-fullwidth">More About Me</Link>
 
                 <SocialLinks classes={"s-about__social social-list"}/>
               </div>

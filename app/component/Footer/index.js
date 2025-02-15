@@ -17,7 +17,7 @@ function Footer() {
                         <p className="lead">
                             With 5+ years of experience in React.js, Next.js, Prisma, AWS, and WordPress, I specialize in developing high-performance web applications, intuitive user interfaces, and scalable solutions. Whether it's a complex SaaS platform, an eCommerce site, or a custom web solution, I ensure quality, efficiency, and innovation.
                         </p>
-                        <a href="contact.html" className="btn btn--primary">Start Your Project</a>
+                        <Link href="contact" className="btn btn--primary">Start Your Project</Link>
                     </div>
         
                 </div>
