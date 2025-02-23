@@ -153,7 +153,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <Head>
-        <title>Prakash Sharma - Portfolio</title>
+        {/* <title>Prakash Sharma - Portfolio</title> */}
         <script src="/js/plugins.js" defer></script>
         <script src="/js/main.js" defer></script>
       </Head>
