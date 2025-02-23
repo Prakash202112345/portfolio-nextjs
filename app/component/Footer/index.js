@@ -41,6 +41,9 @@ function Footer() {
                         <li><Link href="about">About</Link></li>
                         <li><Link href="my-expertise"> My Expertise</Link></li>
                         <li><Link href="contact">Contact</Link></li>
+                        <li><Link href="privacy-policy">Privacy Policy</Link></li>
+                        <li><Link href="terms-conditions">Terms & Conditions</Link></li>
+                        <li><Link href="cancellation-refund-policy">Cancellation & Refund Policy</Link></li>
                     </ul>
                 </div>
             </div>    
