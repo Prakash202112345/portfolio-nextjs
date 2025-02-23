@@ -151,9 +151,9 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="s-expertise__content-btn grid-section-split__bottom">
-                <a href="projects.html" className="btn btn--stroke u-fullwidth">View My Projects</a>
-              </div>
+              {/* <div className="s-expertise__content-btn grid-section-split__bottom">
+                <a href="projects" className="btn btn--stroke u-fullwidth">View My Projects</a>
+              </div> */}
             </div>
           </div>
         </section>

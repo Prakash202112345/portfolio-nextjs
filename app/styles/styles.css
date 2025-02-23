@@ -3854,6 +3854,7 @@ td:last-child {
 
 	.s-intro__content-title {
 		font-size: clamp(4rem, 10vw, 10.4rem);
+		transform: translate(0);
 	}
 
 	.s-intro__content-title br {
@@ -3922,6 +3923,7 @@ td:last-child {
 @media screen and (max-width: 560px) {
 	.s-intro__content-pretitle {
 		padding-left: 9.6rem;
+		transform: translate(0);
 	}
 
 	.s-intro__content-pretitle::before {
